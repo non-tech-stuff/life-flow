@@ -21,6 +21,9 @@ A real working flow can be obtained, by plugging in:
 2. Personal value system
 3. Knowlege map
 
+## Usage
+Open the `calibration_idea` with [Diagrams.net(previosuly Draw.io)](https://app.diagrams.net/).
+
 ## Screenshots
 
 <img src="screenshots/calibration_idea-High-level%20view.jpg" height="350px">
