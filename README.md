@@ -24,7 +24,7 @@ A real working flow can be obtained, by plugging in:
 ## Usage
 Open the `calibration_idea` file with [Diagrams.net(previosuly Draw.io)](https://app.diagrams.net/).
 
-## Screenshots
+## Some Screenshots
 
 <img src="screenshots/calibration_idea-High-level%20view.jpg" height="350px">
 <img src="screenshots/calibration_idea-Tasks.jpg" height="350px">
