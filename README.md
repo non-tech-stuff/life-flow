@@ -22,7 +22,7 @@ A real working flow can be obtained, by plugging in:
 3. Knowlege map
 
 ## Usage
-Open the `calibration_idea` with [Diagrams.net(previosuly Draw.io)](https://app.diagrams.net/).
+Open the `calibration_idea` file with [Diagrams.net(previosuly Draw.io)](https://app.diagrams.net/).
 
 ## Screenshots
 
