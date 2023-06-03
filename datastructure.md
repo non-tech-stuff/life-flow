@@ -74,6 +74,7 @@ The planning/viewing is the thing Notion helps with.
 - Meant for todos, getting things done
 - Has awesome UI, UI
 - First class support for nested todos, custom attributes, and a once place (Settings > Custom Attributes) to manage them.
+- First class support for repetitive tasks
 - Archive feature
 - Used at work
   > 4. Why use Height.app only for todo parts - Why not keep a list of frustrations and ideas there itself, instead of Notion?
