@@ -12,7 +12,7 @@ const lifeFlowData = {
     // Note, tasks need some resume data - especially if they had been blocked, Height's Chat (of task) is the perfect candidate for this
     // 'epics' should be a construct here - and Height supports that via nested tasks. epics are a collection of tasks. e.g. "Build a house" is an epic, and "Buy bricks" is a task in it.
 
-    /* Question where do old 'done' tasks go in Height.app, do they just clog up with when='today'? I think they do, and that's fine. I can archive them if I want to.
+    /* Question where do old 'done' tasks go in Height.app, do they just clog up with when='today'?
 
     Solution: Create a new list called 'tasks-past'. Now, add an 'Automation' in height that runs when a task is marked as done (and 2 days go by), it to 'tasks-past'. I've actually done this:
     1. Since Height doesn't support archiving of tasks, I've created a new attribute called 'archived??'. This attribute controls which list the task is in.
