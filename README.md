@@ -2,7 +2,7 @@
 
 ## Why
 
-I can observe that I do the same things everyday, so why not understand the process and automate it.
+I observe that I do the same things everyday, so why not understand the process and automate it.
 So I modeled the workflow of life, as of now.
 Of course, it's not static.
 
@@ -22,6 +22,7 @@ A real working flow can be obtained, by plugging in:
 3. Knowlege map
 
 ## Usage
+
 Open the `calibration_idea` file with [Diagrams.net(previosuly Draw.io)](https://app.diagrams.net/).
 
 ## Some Screenshots
