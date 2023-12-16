@@ -2,7 +2,7 @@
 
 ## Why
 
-I observed that I did the same things everyday, so why not understand the process and automate it.
+I can observe that I do the same things everyday, so why not understand the process and automate it.
 So I modeled the workflow of life, as of now.
 Of course, it's not static.
 
